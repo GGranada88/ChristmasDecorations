@@ -9,15 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "^15.1.2",
+    "punycode": "^2.3.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.1.1"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "@eslint/eslintrc": "^3",
     "eslint": "^9",
     "eslint-config-next": "15.1.1",
-    "@eslint/eslintrc": "^3"
-  }
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGranada88/ChristmasDecorations.git"
+  },
+  "keywords": [],
+  "author": "J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GGranada88/ChristmasDecorations/issues"
+  },
+  "homepage": "https://github.com/GGranada88/ChristmasDecorations#readme"
 }
